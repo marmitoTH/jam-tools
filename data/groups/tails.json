@@ -1,0 +1,21 @@
+{
+  "title": "Tails",
+  "address": "4D31C",
+  "elements": [
+    "body",
+    "head",
+    "right_thigh",
+    "right_calf",
+    "right_foot",
+    "left_thigh",
+    "left_calf",
+    "left_foot",
+    "right_bicep",
+    "right_wrist",
+    "right_hand",
+    "left_bicep",
+    "left_wrist",
+    "left_hand",
+    "tails"
+  ]
+}

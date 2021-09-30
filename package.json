@@ -1,0 +1,15 @@
+{
+  "name": "jam-tools",
+  "version": "1.0.0",
+  "main": "index.js",
+  "license": "MIT",
+  "bin": {
+    "jam-tools-models": "./src/cli/models.js"
+  },
+  "scripts": {
+    "models": "node ./src/cli/models.js"
+  },
+  "dependencies": {
+    "commander": "^8.1.0"
+  }
+}
